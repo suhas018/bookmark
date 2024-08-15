@@ -16,3 +16,4 @@ Bookmark is a web application designed to facilitate social networking and image
 
 4. **Activity Stream:**
     - The platform features an activity stream where users can view and interact with content uploaded by the individuals they follow.
+REMOVED
